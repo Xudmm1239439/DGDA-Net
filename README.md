@@ -79,7 +79,7 @@ zipp                3.20.2
 ```bash
 python main.py
 ```
-- Download the preprocessed data from [here](https://pan.baidu.com/s/1WB0tWbznju6r-nz3LMw_Bg?pwd=becf), and put them into `data/`.
+- Download the preprocessed data from [here](https://pan.baidu.com/s/1WB0tWbznju6r-nz3LMw_Bg?pwd=becf), and put them into `result/`.
 
 ## Training
 ```bash
