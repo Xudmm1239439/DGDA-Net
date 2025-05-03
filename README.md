@@ -75,7 +75,7 @@ yarl                1.15.2
 zipp                3.20.2
 ```
 
-##pre_training.py
+## pre_training.py
 ```bash
 python main.py
 ```
