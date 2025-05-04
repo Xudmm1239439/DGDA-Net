@@ -85,5 +85,4 @@ python main.py
 ```bash
 python test.py
 ```
-## Acknowledgements
-- Special thanks to the [COSMIC](https://github.com/declare-lab/conv-emotion) and [MMGCN](https://github.com/hujingwen6666/MMGCN) for sharing their codes and datasets.
+
